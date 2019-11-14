@@ -1,0 +1,37 @@
+#popup_container {
+    font-family:'Lucida Grande',arial;
+    padding:50%;
+	font-weight:bold;
+	text-align:left;
+	font-size: 12px;
+	width: 364px; 
+	height: auto; 
+	background: #FCD089;	
+	margin:1em;
+    border-top-left-radius: 19px;
+	border-radius: 19px;
+	-moz-border-radius: 19px;
+	-webkit-border-radius: 19px;
+	border:3px solid #FF8900;
+	color: #000;
+	
+}
+
+#popup_title {
+display:none;
+}
+
+
+
+#popup_message {
+padding: 15px;
+}
+
+#popup_panel {
+text-align: left;
+padding:0 15px 8px 15px;
+float:right;
+	
+}
+
+
